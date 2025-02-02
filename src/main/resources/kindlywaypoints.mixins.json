@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "kindly.klan.kkwaypoints.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "kindlywaypoints.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
